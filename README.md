@@ -1,5 +1,10 @@
 Discount Mart Sales Dashboard (Tableau)
 
+![Tableau](https://img.shields.io/badge/Tool-Tableau-orange?logo=tableau)
+![Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
+![Dashboard](https://img.shields.io/badge/Project-Dashboard-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ## 📸 Dashboard Preview
 
 ![Discount Mart Sales Dashboard](dashboard.png)
