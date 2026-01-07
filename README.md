@@ -2,7 +2,7 @@ Discount Mart Sales Dashboard (Tableau)
 
 ## 📸 Dashboard Preview
 
-![Discount Mart Sales Dashboard](Screenshot 2026-01-07 232230.png)
+![Discount Mart Sales Dashboard](dashboard.png)
 
 
 ###  📌 Project Overview
