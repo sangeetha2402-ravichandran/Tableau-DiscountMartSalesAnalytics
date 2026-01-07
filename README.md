@@ -1,4 +1,10 @@
 Discount Mart Sales Dashboard (Tableau)
+
+## 📸 Dashboard Preview
+
+![Discount Mart Sales Dashboard](Screenshot 2026-01-07 232230.png)
+
+
 ###  📌 Project Overview
 
 This project presents an end-to-end Tableau dashboard built to analyze sales performance for Discount Mart.
